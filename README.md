@@ -1,1 +1,2 @@
-At https://angular.io/docs/ts/latest/tutorial/toh-pt4.html
+https://angular.io/docs/ts/latest/tutorial/toh-pt6.html
+at "heroes and HTTP"
