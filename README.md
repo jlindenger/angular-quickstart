@@ -1,2 +1,1 @@
-https://angular.io/docs/ts/latest/tutorial/toh-pt6.html
-at "heroes and HTTP"
+This repo has a completed version of the Angular2 "Tour of Heroes" tutorial
